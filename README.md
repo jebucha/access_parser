@@ -1,4 +1,7 @@
 # Access Log Parser with Security Threat Detection
+## NOTE
+
+This project created to tinker with https://github.com/github/spec-kit, there are numerous other / better access log parsers available.
 
 A high-performance, CLI-based access log parser written in Python. This tool enriches standard Apache/Nginx combined logs with security insights, identifying web attacks, automated traffic patterns, and geographic anomalies.
 
